@@ -7,6 +7,7 @@ A file I will use to record and keep track of topics, ideas and thoughts I wish 
 - Twitter bot with weather functionality <br>
 - Brick Breaker game <br>
 - Mathematical expression evaluator <br>
+- Personal Website <br>
 
 
 
