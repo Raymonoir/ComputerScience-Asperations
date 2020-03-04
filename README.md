@@ -8,7 +8,7 @@ A file I will use to record and keep track of topics, ideas and thoughts I wish 
 - Brick Breaker game <br>
 - Mathematical expression evaluator <br>
 - Personal Website <br>
-- A painting application <br>
+- A painting application (On Going)<br>
 - Morse code translator <br>
 - Tetris
 
