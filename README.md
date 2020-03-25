@@ -11,7 +11,7 @@ A file I will use to record and keep track of topics, ideas and thoughts I wish 
 - A painting application (On Going)<br>
 - Morse code translator <br>
 - Tetris <br>
-- Online Multiplayer Game - Simple
+- Online Multiplayer Game - Simple <br>
 - Minecraft Mod
 
 
@@ -20,7 +20,7 @@ A file I will use to record and keep track of topics, ideas and thoughts I wish 
 -------------------------------------------------------------------------
 <h1> Topics I wish to learn more about </h1>
 - Machine Learning <br>
-- Competitive programming
+- Competitive programming <br>
 - C#
 
 
