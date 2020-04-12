@@ -17,6 +17,7 @@ A file I will use to record and keep track of topics, ideas and thoughts I wish 
 - Machine Learning <br>
 - Competitive programming <br>
 - C#
+- Node JS
 
 -------------------------------------------------------------------------
 <h1> General ideas </h1>
