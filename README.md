@@ -18,7 +18,7 @@ A file I will use to record and keep track of topics, ideas and thoughts I wish 
 - Competitive programming <br>
 - C# <br>
 - Node JS <br>
-- Pythin Django <br>
+- Python Django <br>
 
 -------------------------------------------------------------------------
 <h1> General ideas </h1>
