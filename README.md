@@ -10,7 +10,8 @@ A file I will use to record and keep track of topics, ideas and thoughts I wish 
 - Personal Website <br>
 - Tetris <br>
 - Online Multiplayer Game - Simple <br>
-- Minecraft Mod
+- Minecraft Mod <br>
+- Depth first maze creater with A* maze solver <br>
 
 -------------------------------------------------------------------------
 <h1> Topics I wish to learn more about </h1>
