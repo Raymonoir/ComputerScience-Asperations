@@ -13,7 +13,7 @@ A file I will use to record and keep track of topics, ideas and thoughts I wish 
 - Minecraft Mod <br>
 - Depth first maze generator with A* maze solver (Planned to be implemented on personal website) <br>
 - Algorithmic trading <br>
--------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------
 <h1> Topics I wish to learn more about </h1>
 - Machine Learning <br>
 - Competitive programming <br>
